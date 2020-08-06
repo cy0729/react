@@ -11,6 +11,6 @@ return <h1>12313123{props.title}</h1>
 //     }
 // )
 ReactDom.render(
-    <App title="1111"></App>,
+    <App title="1111"/>,
     document.querySelector('#root')
 )
