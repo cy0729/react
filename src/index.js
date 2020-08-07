@@ -3,7 +3,7 @@ import ReactDom from 'react-dom'
 // const app=<h1>22222</h1>
 const App=(props)=>{
   
-return <h1>12313123{props.title}</h1>
+return <h1>12313123435345345345{props.title}</h1>
 }
 // const app=creatApp(
 //     {
